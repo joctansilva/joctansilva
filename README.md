@@ -1,4 +1,31 @@
-# Joctan Neves
+<p align=""> <img src="https://komarev.com/ghpvc/?username=joctansilva&label=Profile%20views&color=0e75b6&style=flat" alt="joctansilva" /> </p>
+<p>
+  <span>(Click Here to my socials)<span/>
+
+  <a href="https://linkedin.com/in/joctann" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joctann" height="30" width="40" /></a>
+  <a href="https://instagram.com/joctans" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joctans" height="30" width="40" /></a>
+</p>
+
+  <h1 align="center">Hi 👋, I'm Joctan Neves da Silva</h1>
+  <h3 align="center">A passionate fullstack developer from Brazil</h3>
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joctansilva&theme=dracula" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joctansilva&theme=cobalt&column=5&margin-w=5&margin-h=25" alt="Joctan Neves" />
+  </a> 
+</p>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joctansilva/joctansilva/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/joctansilva/joctansilva/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/joctansilva/joctansilva/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 Front-End Developer.
 
