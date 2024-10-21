@@ -17,8 +17,6 @@
 
 <p align="center">I am a professional with 7 years of experience in the Technology field,<br> working as 3 a FullStack Developer, focused on web front-end solutions.</p>
 
-<p align="center">I have experience in the following technologies:</p>
-
 <p align="center">I have experience in developing and maintaining large-scale web applications using React and NextJS, as well as implementing backend solutions and microservices with Node.js and NestJS. I have collaborated in multidisciplinary teams focused on product development and SaaS, continuously improving UX to optimize user experience. Additionally, I have developed landing pages for launch campaigns using WordPress, HTML, CSS, and JavaScript./p>
 
 <p align="center">I am a highly motivated and enthusiastic individual with a strong passion for technology.</p>
