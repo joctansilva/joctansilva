@@ -2,7 +2,7 @@
 <p>
   <span>(Click Here to my socials)<span/>
 
-  <a href="https://linkedin.com/in/joctann" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joctann" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/joctan-neves" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joctann" height="30" width="40" /></a>
   <a href="https://instagram.com/joctans" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joctans" height="30" width="40" /></a>
 </p>
 
