@@ -17,8 +17,7 @@
 
 <p align="center">Full Stack Developer with 5+ years of experience building high-performance, scalable web applications, with a strong focus on Front-End architecture, user experience, and product-driven development.</p>
 
-<p align="center">I specialize in React and Next.js ecosystems, designing and implementing front-end architectures end-to-end, optimizing performance, scalability, and maintainability. I have worked on systems handling tens of thousands of monthly users, reducing response times by up to 90% and significantly lowering operational and support costs.
-./p>
+<p align="center">I specialize in React and Next.js ecosystems, designing and implementing front-end architectures end-to-end, optimizing performance, scalability, and maintainability. I have worked on systems handling tens of thousands of monthly users, reducing response times by up to 90% and significantly lowering operational and support costs.</p>
 
 <p align="center">My experience includes SaaS platforms, financial systems, risk management solutions, omnichannel communication platforms, and internal tools, always working closely with product and UX to deliver measurable business impact.</p>
 
