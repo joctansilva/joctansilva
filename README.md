@@ -15,13 +15,14 @@
 <br/>
 </p>
 
-<p align="center">I am a professional with 7 years of experience in the Technology field,<br> working as 3 a FullStack Developer, focused on web front-end solutions.</p>
+<p align="center">Full Stack Developer with 5+ years of experience building high-performance, scalable web applications, with a strong focus on Front-End architecture, user experience, and product-driven development.</p>
 
-<p align="center">I have experience in developing and maintaining large-scale web applications using React and NextJS, as well as implementing backend solutions and microservices with Node.js and NestJS. I have collaborated in multidisciplinary teams focused on product development and SaaS, continuously improving UX to optimize user experience. Additionally, I have developed landing pages for launch campaigns using WordPress, HTML, CSS, and JavaScript./p>
+<p align="center">I specialize in React and Next.js ecosystems, designing and implementing front-end architectures end-to-end, optimizing performance, scalability, and maintainability. I have worked on systems handling tens of thousands of monthly users, reducing response times by up to 90% and significantly lowering operational and support costs.
+./p>
 
-<p align="center">I am a highly motivated and enthusiastic individual with a strong passion for technology.</p>
+<p align="center">My experience includes SaaS platforms, financial systems, risk management solutions, omnichannel communication platforms, and internal tools, always working closely with product and UX to deliver measurable business impact.</p>
 
-<p align="center">I have knowledge in the following tools: React, NextJS, Typescript, SSR, Node, Nest, Prisma, React Query, HTML, CSS, Tailwind, Styled Components, Docker, MYSQL, PostgreSQL, Zustand, Unit Testing, Agile Methodologies, Software Architecture, Design System, Python, Postman API, Insomnia API</p>
+<p align="center">Tech stack: React, Next.js, TypeScript, SSR, React Query, Zustand, Tailwind, Styled Components, Node.js, NestJS, PostgreSQL, Docker, CI/CD, and modern software architecture practices.</p>
 
 
 <br>
