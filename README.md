@@ -9,9 +9,7 @@
   <h1 align="center">Hi 👋, I'm Joctan Neves da Silva</h1>
   <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joctansilva&theme=dracula" alt="GitHub Streak" /></a>
-</p>
+
 <br/>
 </p>
 
