@@ -141,9 +141,13 @@ const joctan = {
 
 ### 📈 Estatísticas do GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=joctansilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<a href="https://github.com/joctansilva">
+  <img src="https://github-readme-stats.vercel.app/api?username=joctansilva&show_icons=true&theme=tokyonight" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joctansilva&layout=compact&langs_count=7&theme=tokyonight" />
+<a href="https://github.com/joctansilva">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joctansilva&layout=compact&langs_count=8&theme=tokyonight" />
+</a>
 
 </div>
 
