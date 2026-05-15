@@ -138,16 +138,12 @@ const joctan = {
 ---
 
 <div align="center">
-  
+
 ### 📈 Estatísticas do GitHub
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=joctansilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-<div align="center">
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=joctansilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joctansilva&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joctansilva&layout=compact&langs_count=7&theme=tokyonight" />
 
 </div>
 
