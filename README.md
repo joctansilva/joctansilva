@@ -173,6 +173,16 @@ Desenvolvedor Web Freelancer — 18+ websites institucionais
 *Disponível para oportunidades remotas em todo o mundo 🌎*  
 **nsjoctan@gmail.com** | **+55 62 98252-2106**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9349df42-8488-4948-af2c-fc29b5954ef7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+---
+
+<div align="center">
+
+### 🏅 Certificações & Badges
+
+<a href="https://www.credly.com/badges/9349df42-8488-4948-af2c-fc29b5954ef7/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/b3885091-25bc-42d0-8989-34cca82f3056/image.png" width="150" alt="AWS Serverless Demonstrated Badge"/>
+</a>
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
