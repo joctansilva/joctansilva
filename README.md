@@ -174,5 +174,5 @@ Desenvolvedor Web Freelancer — 18+ websites institucionais
 **nsjoctan@gmail.com** | **+55 62 98252-2106**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9349df42-8488-4948-af2c-fc29b5954ef7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
